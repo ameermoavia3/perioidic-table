@@ -27,8 +27,3 @@ This is a static periodic table project built using only HTML and CSS. The goal 
 - Visual representation of periodic elements
 - Practice for web development layout using only HTML & CSS
 
-## 📸 Preview:
-
-_You can add a screenshot of your project here or link to the live version using GitHub Pages._
-
-## 🚀 How to
